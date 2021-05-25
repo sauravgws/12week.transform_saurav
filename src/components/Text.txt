@@ -1,0 +1,16 @@
+
+
+// let data = [];
+        // if(props.exercise.length()>0){
+        //     for(var key in props.exercise){
+                // data.push(<li>{`${key} - ${props.exercise[key]}`}</li>)
+        //       console.log(key);  
+        //     }
+        // }
+        // return data;
+
+// children.push(<td>{`Column ${j + 1}`}</td>)
+
+exer.map((item) => (
+                        <p><strong>{item}</strong></p>
+                    ))
